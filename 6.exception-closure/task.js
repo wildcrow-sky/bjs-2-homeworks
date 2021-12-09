@@ -28,7 +28,7 @@ class Triangle {
   }
 
   getPerimeter() {
-    return this.perimetr = this.a + this.b + this.c;
+    return this.a + this.b + this.c;
   }
 
   getArea() {
