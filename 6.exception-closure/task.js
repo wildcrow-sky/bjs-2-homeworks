@@ -16,7 +16,7 @@ function validateCount(count) {
   }
 }
 
-// Задача №1. Треугольник
+// Задача №2. Треугольник
 
 class Triangle {
   constructor(a, b, c) {
